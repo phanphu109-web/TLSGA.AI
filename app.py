@@ -347,5 +347,5 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - SPhàn Cò Phù - Trường PTDTBT Tiểu học Đường Thượng - ĐT: 0966198522</p>
+st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Phàn Cò Phù - Trường PTDTBT Tiểu học Đường Thượng - ĐT: 0966198522</p>
 </div>, unsafe_allow_html=True)
